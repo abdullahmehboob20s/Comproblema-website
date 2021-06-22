@@ -110,6 +110,27 @@
   z-index: 10;
 }
 
+.somos {
+  background-color: #2d616d;
+}
+.somos_cards {
+  padding: 80px 0;
+}
+.somos_cards h5 {
+  font-size: 50px;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.somos_cards h5 span {
+  font-size: 50px;
+  color: #ffb800;
+}
+.somos_cards p {
+  color: #fff;
+  font-family: Inter;
+  font-size: 16px;
+  line-height: 26px;
+}
 /* =============================================================================================== */
 /*============================================ servicios_cards ============================================ */
 /* =============================================================================================== */
@@ -191,6 +212,16 @@
 }
 .card_3 {
   background: url(../images/servicios-card-image-3.png);
+}
+
+.card_4 {
+  background: url(../images/Group\ 7.png);
+}
+.card_5 {
+  background: url(../images/Group\ 8.png);
+}
+.card_6 {
+  background: url(../images/Group\ 11.png);
 }
 
 .servicios_image_card_wrapper {
