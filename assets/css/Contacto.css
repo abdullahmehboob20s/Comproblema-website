@@ -222,6 +222,75 @@
 }
 
 /* =============================================================================================== */
+/*============================================ Contact-2 ============================================ */
+/* =============================================================================================== */
+
+.contact_form_heading {
+  padding-top: 4.563rem;
+  padding-bottom: 20.875rem;
+}
+.contact_form_heading_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact_form_heading_1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+  color: #0b0d17;
+}
+
+.contact_form_heading_2 {
+  width: 100%;
+  max-width: 740px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #0b0d17;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.contact_form_heading_btns {
+  margin-top: 7.188rem;
+}
+
+.contact_form_heading_btn_1 {
+  background: #ffb800;
+  border-radius: 8px;
+  padding: 0.75rem 2rem;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0b0d17;
+  text-decoration: none;
+  margin-right: 2rem;
+}
+.contact_form_heading_btn_2 {
+  background: #ffb800;
+  border-radius: 8px;
+  padding: 0.75rem 2rem;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0b0d17;
+  text-decoration: none;
+}
+
+/* =============================================================================================== */
 /*============================================ faq_footer ============================================ */
 /* =============================================================================================== */
 
