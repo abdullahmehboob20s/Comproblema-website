@@ -262,6 +262,23 @@
   margin-top: 7.188rem;
 }
 
+.custom_select {
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #0b0d17;
+  padding: 0.5rem 0;
+  outline: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 26px;
+  color: #0b0d17;
+  cursor: pointer;
+  margin-bottom: 3rem;
+}
+
 .contact_form_heading_btn_1 {
   background: #ffb800;
   border-radius: 8px;
